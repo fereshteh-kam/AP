@@ -13,3 +13,6 @@
 [submodule "APS04-A5-Tower-Defence-game"]
 	path = APS04-A5-Tower-Defence-game
 	url = https://github.com/fereshteh-kam/a5-fereshteh-kam.git
+[submodule "AP-TA-Project-DadeNegar"]
+	path = AP-TA-Project-DadeNegar
+	url = https://github.com/fereshteh-kam/DadeNegar_AP_TA.git
