@@ -1,0 +1,15 @@
+[submodule "APS04-A1-Project-manager"]
+	path = APS04-A1-Project-manager
+	url = https://github.com/fereshteh-kam/a1-fereshteh-kam.git
+[submodule "APS04-A2-Shared-workspace-manager"]
+	path = APS04-A2-Shared-workspace-manager
+	url = https://github.com/fereshteh-kam/a2-fereshteh-kam.git
+[submodule "APS04-A3-Recursive-Problems"]
+	path = APS04-A3-Recursive-Problems
+	url = https://github.com/fereshteh-kam/a3-fereshteh-kam.git
+[submodule "APS04-A4-UTGhalam"]
+	path = APS04-A4-UTGhalam
+	url = https://github.com/fereshteh-kam/a4-fereshteh-kam.git
+[submodule "APS04-A5-Tower-Defence-game"]
+	path = APS04-A5-Tower-Defence-game
+	url = https://github.com/fereshteh-kam/a5-fereshteh-kam.git
